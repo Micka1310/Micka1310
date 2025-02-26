@@ -7,7 +7,7 @@ Hi to everyone who checks my profile! 👋
 
 I'm currently in my second year in ingieneer school. My goal is to become an engieneer specialized in computer science. 
 
-I'm actually looking for an internship of 3-4 months in the tech world. 👀
+<!---I'm actually looking for an internship of 3-4 months in the tech world. 👀--->
 
 Here are some project I did before :
 - Creating a weather station with an embedded system using Arduino while coding in C.
