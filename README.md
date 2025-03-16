@@ -1,8 +1,3 @@
-<!---
-My social networks 📫:
-- mail : mickaelking13@gmail.com
-- linkedin : https://www.linkedin.com/in/mickael-king-611161188/
---->
 # About me
 Hi to everyone who checks my profile! 👋
 
@@ -11,10 +6,10 @@ I'm currently in my second year in an engieneer school. My goal is to become an 
 ## My goal right now
 
 I'm currently looking for a **3-year work-study program** starting in **September 2025** in one of the following areas 👀: 
-- **web development**
-- **software / application development**
-- **artificial intelligence (AI) / Big data**
-- **embedded system**
+- **Web development**
+- **Software / application development**
+- **Artificial intelligence (AI) / Big data**
+- **Embedded system**
 
 ## Qualifications
 **Degree in computer engineering (+ 5 years) (09/2023 - 07/2028)** :
@@ -54,7 +49,13 @@ I'm currently looking for a **3-year work-study program** starting in **Septembe
 - French (native language C2)
 - English (Intermediate C1)
 
-<!---If you're looking for a work-study student, I might be interresed so feel free to contact me (mail at the beginning of my README).--->
+
+## My social networks 📫:
+- **Phone number** : 06 41 19 68 69
+- **Mail** : mickaelking13@gmail.com
+- **Linkedin** : https://www.linkedin.com/in/mickael-king-611161188/
+
+If you're looking for a work-study student, I might be interresed so feel free to contact me ! 🙂.
 
 <!--
 - 🌱 I’m currently learning ...
