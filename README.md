@@ -13,13 +13,13 @@ I'm currently looking for a **3-year work-study program** starting in **Septembe
 
 ## Qualifications
 **Degree in computer engineering (+ 5 years) (09/2023 - 07/2028)** :
-**CESI engineering school, Nanterre**
-- Currently in my **2nd year** of higher education in **computer science**.
-- Learning with **PBL** (problem-based-learning) and **active pedagogy**.
+- **CESI engineering school, Nanterre**
+  - Currently in my **2nd year** of higher education in **computer science**.
+  - Learning with **PBL** (problem-based-learning) and **active pedagogy**.
 
 **General Bac (09/2021 - 07/2023)** :
-**Lycée Évariste Galois, Sartrouville**
-- Specialties taken in **premiere and terminal** : **Numerical computer science**, **Mathematics**, **Physics-chemistry**.
+- **Lycée Évariste Galois, Sartrouville**
+  - Specialties taken in **premiere and terminal** : **Numerical computer science**, **Mathematics**, **Physics-chemistry**.
 
 ## Here are some project I did before :
 - **Creation of a weather station** with an embedded system using **Arduino** while coding in **C**.
@@ -40,7 +40,7 @@ I'm currently looking for a **3-year work-study program** starting in **Septembe
 - Ability to **adapt and organize**.
 - Highly **autonomous**, **motivated** and able to **learn**.
 
-## software/applications I already used before :
+## Software/applications I already used before :
 - **Office applications** : Word, Powerpoint, Excel.
 - **For team communication** : Teams, GitHub, GitLab, UML (SysML, Lucidchart), GANTT and PERT.
 - **For my IT work** : Git, Laravel, Composer, Visual studio code, Visual studio community, Arduino IDE, Packet Tracer, Apache, MySQL, Linux, Windows.
