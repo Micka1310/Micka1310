@@ -8,48 +8,53 @@ Hi to everyone who checks my profile! 👋
 
 I'm currently in my second year in an engieneer school. My goal is to become an engieneer specialized in computer science. 
 
-<!---I'm actually looking for an internship of 3-4 months in the tech world. 👀--->
+## My goal right now
+
+I'm currently looking for a **3-year work-study program** starting in **September 2025** in one of the following areas 👀: 
+- **web development**
+- **software / application development**
+- **artificial intelligence (AI) / Big data**
+- **embedded system**
+
+## Qualifications
+**Degree in computer engineering (+ 5 years) (09/2023 - 07/2028)** :
+**CESI engineering school, Nanterre**
+- Currently in my **2nd year** of higher education in **computer science**.
+- Learning with **PBL** (problem-based-learning) and **active pedagogy**.
+
+**General Bac (09/2021 - 07/2023)** :
+**Lycée Évariste Galois, Sartrouville**
+- Specialties taken in **premiere and terminal** : **Numerical computer science**, **Mathematics**, **Physics-chemistry**.
 
 ## Here are some project I did before :
-- Creating a weather station with an embedded system using Arduino while coding in C.
-- Creating a game called "the game of life"  using C++ with OOP (oriented object programming).
-- Connect infrastructures and devices to each other via the Internet on a virtual model (notion of IP address, routing, VLAN...)
-- Creating a website that help student looking for an internship (just like my situation right now)
+- **Creation of a weather station** with an embedded system using **Arduino** while coding in **C**.
+- **Creation of a game** called **"The game of life"**  using **C++** with **OOP (oriented object programming)**.
+- **Connecting infrastructures and devices** to each other via the Internet on a virtual model (**notion of IP address, routing, VLAN...**)
+- **Creation of a website** to help users find **internships/traineeships**. (just like my situation right now)
 
-## The programming language I'm familiar with :
-- Python
-- C
-- C++
-- HTML/CSS
-- JavaScript
-- PHP
-- Arduino
-- SQL
-- Bash
+## My professionals experiences :
+- (Start: 08/04/2025): **3-4 month internship** at **Studiolab** as a **Full-stack developer**.
 
-## The works tools I can use :
-- Github
-- Gitlab
-- Laravel
-- Visual studio code
-- Visual studio community
-- Arduino IDE
-- Packet Tracer
-- XAMMP
-- Linux
-- UML (SysML, Lucidchart)
+## My hard skills :
+- **Programming languages learned** : Python, C, C++, Arduino, HTML, CSS, JavaScript, PHP.
+- Mastered the **concept of procedural programming** and **OOP (object-oriented programming)**.
+- Use of **databases** with SQL.
 
-## The offices tools I learned to use :
-- Word
-- Powerpoint
-- Excel
-- Teams
+## My soft skills :
+- Familiar with **teamwork**.
+- Ability to **adapt and organize**.
+- Highly **autonomous**, **motivated** and able to **learn**.
+
+## software/applications I already used before :
+- **Office applications** : Word, Powerpoint, Excel.
+- **For team communication** : Teams, GitHub, GitLab, UML (SysML, Lucidchart), GANTT and PERT.
+- **For my IT work** : Git, Laravel, Composer, Visual studio code, Visual studio community, Arduino IDE, Packet Tracer, Apache, MySQL, Linux, Windows.
 
 ## Language I speak :
-- French
-- English (B2)
+- French (native language C2)
+- English (Intermediate C1)
 
-<!---If you are looking for an intern, I might be interresed so feel free to contact me (mail at the beginning of my README).--->
+<!---If you're looking for a work-study student, I might be interresed so feel free to contact me (mail at the beginning of my README).--->
 
 <!--
 - 🌱 I’m currently learning ...
