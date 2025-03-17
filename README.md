@@ -49,12 +49,6 @@ I'm currently looking for a **3-year work-study program** starting in **Septembe
 - French (native language C2)
 - English (Intermediate C1)
 
-
-## My social networks 📫:
-- **Phone number** : 06 41 19 68 69
-- **Mail** : mickaelking13@gmail.com
-- **Linkedin** : https://www.linkedin.com/in/mickael-king-611161188/
-
 If you're looking for a work-study student, I might be interresed so feel free to contact me ! 🙂.
 
 <!--
