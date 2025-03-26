@@ -27,6 +27,8 @@ I'm currently looking for a **3-year work-study program** starting in **Septembe
 - **Connecting infrastructures and devices** to each other via the Internet on a virtual model (**notion of IP address, routing, VLAN...**)
 - **Creation of a website** to help users find **internships/traineeships**. (just like my situation right now)
 
+***(Below my profile, you can check my projects in code form)***
+
 ## My professionals experiences :
 - (Start: 08/04/2025): **3-4 month internship** at **Studiolab** as a **Full-stack developer**.
 
