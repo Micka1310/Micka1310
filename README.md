@@ -47,6 +47,8 @@ I'm currently looking for an **internship** starting at **12 january 2026** in o
 
 If you're looking for an intern student, I might be interresed so feel free to contact me ! 🙂.
 
+**My e-mail** : mickaelking13@gmail.com
+
 ***(Below my profile, you can check my projects in code form)***
 
 <!--
