@@ -1,25 +1,25 @@
 # About me
 Hi to everyone who checks my profile! 👋
 
-I'm currently in my second year in an engieneer school. My goal is to become an engieneer specialized in computer science. 
+I'm currently in my **second year** in engieneer school. My goal is to become an **engieneer** specialized in **computer science**. 
 
-## My goal right now
+## My objectives right now
 
-I'm currently looking for an **internship** starting in **12 january 2026** in one of the following areas 👀: 
+I'm currently looking for an **internship** starting at **12 january 2026** in one of the following areas 👀: 
 - **Web/software development**
 - **Network/system**
 - **Artificial intelligence (AI)**
 - **Big data**
 - **Embedded system**
 
-## My professionals experiences :
-- (Start: 08/04/2025): **3-4 month internship** at **Studiolab** as a **Full-stack developer**.
+## My professional experience :
+- (Start: 08/04/2025): **3-4 month internship** at **Studiolab** as a **Fullstack developer**.
 
 ## My personal project I did before :
-- **Creation of a weather station** with an embedded system using **Arduino** while coding in **C**.
-- **Creation of a game** called **"The game of life"**  using **C++** with **OOP (oriented object programming)**.
-- **Connecting infrastructures and devices** to each other via the Internet on a virtual model (**notion of IP address, routing, VLAN...**)
-- **Creation of a website** from my last internship.
+- Creation of a **weather station** with an embedded system using **Arduino** while coding in **C**.
+- Creation of a **game** called **"The game of life"**  using **C++** with **OOP (oriented object programming)**.
+- Connecting **infrastructures** and **devices** to each other via the Internet on a virtual model (notion of **IP address, routing, VLAN...**)
+- **Creation of a website** that help other student who's looking for an internship.
 
 ## Qualifications
 **Degree in computer engineering (+ 5 years) (09/2023 - 07/2028)** :
@@ -29,9 +29,7 @@ I'm currently looking for an **internship** starting in **12 january 2026** in o
 
 **General Bac (09/2021 - 07/2023)** :
 - **Lycée Évariste Galois, Sartrouville**
-  - Specialties taken in **premiere and terminal** : **Numerical computer science**, **Mathematics**, **Physics-chemistry**.
-
-***(Below my profile, you can check my projects in code form)***
+  - Specialties taken in **premiere** and **terminal** : **Numerical computer science**, **Mathematics**, **Physics-chemistry**.
 
 ## My hard skills :
 - **Programming languages learned** : Python, Java, C, C++, Arduino, HTML, CSS, Javascript, PHP, Laravel, Pytorch
@@ -48,6 +46,8 @@ I'm currently looking for an **internship** starting in **12 january 2026** in o
 - English (Intermediate C1)
 
 If you're looking for an intern student, I might be interresed so feel free to contact me ! 🙂.
+
+***(Below my profile, you can check my projects in code form)***
 
 <!--
 - 🌱 I’m currently learning ...
