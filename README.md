@@ -43,7 +43,7 @@ I'm currently looking for an **internship** starting at **12 january 2026** in o
 
 ## Language I speak :
 - French (native language)
-- English (Intermediate C1)
+- English (Intermediate B2)
 
 If you're looking for an intern student, I might be interresed so feel free to contact me ! 🙂.
 
