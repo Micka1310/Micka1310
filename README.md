@@ -1,7 +1,7 @@
 # About me
 Hi to everyone who checks my profile! 👋
 
-I'm currently in my **first year** in engieneer school. <!--My goal is to become an **engineer** specialized in **computer science**. -->
+I'm currently in my **first year** in engineer school. <!--My goal is to become an **engineer** specialized in **computer science**. -->
 
 ## What I'm doing right now
 
