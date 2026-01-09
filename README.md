@@ -3,15 +3,16 @@ Hi to everyone who checks my profile! 👋
 
 I'm currently in my **first year** in engieneer school. <!--My goal is to become an **engineer** specialized in **computer science**. -->
 
-## My objectives right now
+## What I'm doing right now
 
-I'm currently looking for an **internship** starting at **12 january 2026** in one of the following areas 👀: 
+I'm currently learning about those following areas 👀: 
 - **Web/software development**
 - **Network/system**
-- **Artificial intelligence (AI)**
+- **Artificial intelligence (AI)** (right now)
 - **Big data**
 - **Embedded system**
 
+<!--
 ## My professional experience :
 - (Start: 08/04/2025): **3-4 month internship** at **Studiolab** as a **Fullstack developer**.
 
@@ -19,7 +20,11 @@ I'm currently looking for an **internship** starting at **12 january 2026** in o
 - Creation of a **weather station** with an embedded system using **Arduino** while coding in **C**.
 - Creation of a **game** called **"The game of life"**  using **C++** with **OOP (oriented object programming)**.
 - Connecting **infrastructures** and **devices** to each other via the Internet on a virtual model (notion of **IP address, routing, VLAN...**)
-- **Creation of a website** that help other student who's looking for an internship.
+- Creation of a **website** that help other student who's looking for an internship.
+- Creation of an **AI** to analyse data on a company's employees
+using **Python**.
+- Creation of a **logistics application** that optimises the search for the
+best route for a delivery tour using **Python**.
 
 ## Qualifications
 **Degree in computer engineering (+ 5 years) (09/2023 - 07/2028)** :
@@ -46,10 +51,11 @@ I'm currently looking for an **internship** starting at **12 january 2026** in o
 - English (Intermediate B2)
 
 If you're looking for an intern student, I might be interresed so feel free to contact me ! 🙂.
+-->
 
-**My e-mail** : mickaelking13@gmail.com
+**My e-mail** (just in case) : mickaelking13@gmail.com
 
-***(Below my profile, you can check my projects in code form)***
+***(Below my profile, you can check my projects in code form if you want)*** 🙂
 
 <!--
 - 🌱 I’m currently learning ...
